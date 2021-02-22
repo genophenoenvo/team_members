@@ -6,32 +6,31 @@
 <body>
   <div class="mermaid">
   graph TD;
-    Anne-->Laurel;
-    Anne-->Tom;
-    Anne-->Pankaj;
-    Anne-->Moni;
+    subgraph osu
+    p1(Anne Thessen) --- p2(Laurel Cooper);
+    p1(Anne Thessen) --- p3(Tom Conlin);
+    p1(Anne Thessen) --- p4(Pankaj Jaiswal);
+    p1(Anne Thessen) --- p5(Moni Munoz-Torres);
+    end
+    subgraph tufts
+    p6(Remco Chang) --- p7(Gabriel Appleby);
+    p6(Remco Chang) --- p8(Ab Mosca);
+    p6(Remco Chang) --- p9(Camelia);
+    end
+    subgraph ua
+    p10(P Bryan Heidorn) --- p11(Tyson Swetnam);
+    p10(P Bryan Heidorn) --- p12(David LeBauer);
+    p10(P Bryan Heidorn) --- p13(Ryan Bartelme)
+    p12(David LeBauer) --- p14(Kristina Reimer);
+    p12(David LeBauer) --- p15(Jessica);
+    p12(David LeBauer) --- p16(Linh);
+    end
+    subgraph msu
+    p17(Arun Ross) --- p18(Ishita);
+    p17(Arun Ross) --- p19(Debashmita); 
+    end
   </div>
-  <div class="mermaid">
-  graph TD;
-    Remco-->Gabriel;
-    Remco-->Ab;
-    Remco-->Camelia;
-  </div>
-  <div class="mermaid">
-  graph TD;
-    Bryan-->Tyson;
-    Bryan-->David;
-    Bryan-->Ryan
-    David-->Kristina;
-    David-->Jessica;
-    David-->Linh;
-  </div>
-  <div class="mermaid">
-  graph TD;
-    Arun-->Ishita;
-    Arun-->Debashmita;
-  </div>
- <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
  <script>mermaid.initialize({startOnLoad:true});</script>
 </body>
 </html>
