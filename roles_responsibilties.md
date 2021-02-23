@@ -16,7 +16,7 @@
 | <img src="/images/laurel_cooper.jpg" width="100"> | **Laurel Cooper** is a data scientist in the Department of Botany and Plant Pathology at Oregon State University  with extensive experience in plant genomics, ontology development, and project coordination. | <ul><li>Senior Personnel</li><li>Project Manager</li></ul> |
 | Kristina pic | Kristina text | <ul><li>Data scientist</li></ul> |
 | Camelia pic | Camelia text | <ul><li>responsibility</li></ul> |
-| debasmita pic | Debasmita text | <ul><li>responsibility</li></ul> |
+| <img src="/images/Debasmita_Pal.jpg" width="100"> | **Debasmita Pal** is a PhD student working under Dr. Arun Ross at Michigan State University. | <ul><li>Develop ML models</li></ul> |
 | jessica pic | Jessica text | <ul><li>responsibility</li></ul> |
 | linh pic | Linh text | <ul><li>responsibility</li></ul> |
 
