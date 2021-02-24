@@ -17,8 +17,8 @@
 | Kristina pic | Kristina text | <ul><li>Data scientist</li></ul> |
 | Camelia pic | Camelia text | <ul><li>responsibility</li></ul> |
 | <img src="/images/Debasmita_Pal.jpg" width="100"> | **Debasmita Pal** is a PhD student working under Dr. Arun Ross at Michigan State University. | <ul><li>Develop ML models</li></ul> |
-| jessica pic | Jessica text | <ul><li>responsibility</li></ul> |
-| linh pic | Linh text | <ul><li>responsibility</li></ul> |
+| Jessica pic | **Jessica Guo** is a scientific programmer specializing in Bayesian modeling working under Dr. David LeBauer at the University of Arizona. | <ul><li>Assist with Bayesian Network Model</li></ul> |
+| Linh pic | Linh text | <ul><li>responsibility</li></ul> |
 
 
 
